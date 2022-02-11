@@ -26,8 +26,7 @@ public class StringMethods {
 		System.out.println("no of words in string is...."+ words.length);
 		System.out.println(Arrays.toString(words));
 		System.out.println(str.trim());
-		str.reverse();
-		System.out.println(str);
+		
 
 	}
 
